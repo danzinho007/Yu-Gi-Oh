@@ -1,0 +1,41 @@
+Jogo : 3DS Yu-Gi-Oh Zexal World Duel Carnival
+
+Obs : Dividir por 3 pra saber, pois o número é o valor total a 3
+Exemplo : Monstros normais a 3 tem 1875, logo temos 625 monstros normais 
+1875 | 3
+ 07  | 625
+  15 |
+   0 |
+
+Normais : 1875
+Efeito  : 8109
+Fusão   :  108
+Rituais :  501
+Sincro  :  540
+XYZ     :  594
+Magias  : 3054
+Armad   : 2628
+
+Lv 01 : 747
+Lv 02 : 1107
+Lv 03 : 1950
+Lv 04 : 3732
+Lv 05 : 861
+Lv 06 : 978
+Lv 07 : 609
+Lv 08 : 741
+Lv 09 : 96
+Lv 10 : 258
+Lv 11 : 75
+Lv 12 : 39
+
+Rank 01 : 21
+Rank 02 : 24
+Rank 03 : 105
+Rank 04 : 240
+Rank 05 : 78
+Rank 06 : 39
+Rank 07 : 27
+Rank 08 : 39
+Rank 09 : 9
+Rank 10 : 12
