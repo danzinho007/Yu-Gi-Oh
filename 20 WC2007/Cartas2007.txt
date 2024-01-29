@@ -1,0 +1,89 @@
+
+Deck :
+-Destruir magia/armadilha : 3
+
+Mag-Heavy Storm
+Mag-Mystical Space
+Arm-Magic Jammer
+
+Monstros :
+-Efe-4 Goblin Attack 2300/0
+Deck Guerreiro / Luz
+-Efe-4 Toon Goblins 2300/0
+Deck Guerreiro / Luz
+Deck Toon
+-Efe- 4 Goblin Elite 2200/1500
+Deck Demônio / Luz
+Deck nega efeito de monstro
+-Efe-4 Jirai 2200/100 = Deck Negar efeito
+-Efe-4 Giant Orc 2200/0 
+Deck Demônio / Fogo 
+-Efe-4 Panther Warrior 2000/1600
+Deck Besta-Guerreira / Luz 
+Deck Negar efeito
+-Efe-4 Berserk Gorilla 2000/1000
+Deck Besta / Luz
+Deck negar efeito de monstro
+-Efe-4 Dark Elf 2000/800
+Deck Mago / Fogo
+Deck negar efeito de monstro
+-Nuvea the Wicked 2000/800
+Deck de Invocação Especial
+-4 Gene-Warped 2000/100 = Deck Besta-Guerreira / Luz 
+-Efe-4 Infernal 2000/0
+Deck Dragão / Fogo 
+-4 Luster 1900/1600 :
+Deck Vento / Dragão
+-4 Insect Knight 1900/1500
+Deck Inseto / Luz 
+-Efe-4 Gigantes 1900/1300
+Deck Rocha / Luz
+Deck Terra
+-4 Gemini Elf 1900/900
+Deck Mago / Luz
+-4 Sabersaurus 1900/500
+Deck Dino / Luz
+-Efe-4 D.D.D Lady 1500/1600
+Ótimo !!!
+-Efe-1 Winged Kuriboh 300/200
+Ótimo !!!
+
+Magias :
+-7 Completed :
+Deck Máquina
+-A Feather :
+Deck de descartar
+-A Legendary = Deck Aqua 
+-A Wing :
+Deck Dragão 
+-Abyssal = Deck contra Tipo / Atributo (6)
+-Acid Raind = Contra Máquina (5)
+-Advanced Ritual 
+Deck Ritual ( serve pra qualquer monstro )
+-Amazoness :
+Deck Amazonas 
+
+Armadilhas :
+-Acid Trap Hole :
+Deck pra counterar deck de muita defesa
+-Anti-Fusion :
+Deck pra counterar deck de fusão
+-Boottomless Trap :
+Essencial !!!
+-Calamity of the Wicked 
+Destroi monstro + magia / armadilha
+-Magic Jammer = Extra ( Ótimo )
+-Needle Ceiling 
+Quando tem mais de 4 monstros no campo = destroi tudo
+Ótima
+-Reckless Greed = Deck de puxar cartas
+Volcanic = Deck Dino (4)
+Waboku = Extra ( Bom )
+Weed Out = Contra Nv 3 (3)
+-Widespread Ruin = Extra ( Ótimo )
+-Wind = Extra (2)
+-Wonder Garage 
+Deck Máquina / roide
+-World Suppresion = Deck contra Campo
+Xing Zhen Hu = Deck contra muitas Mag/Arm no oponente 
+Zero Gravity = Extra (1)

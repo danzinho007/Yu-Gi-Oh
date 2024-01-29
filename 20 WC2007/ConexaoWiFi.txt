@@ -1,0 +1,6 @@
+
+Nintendo W-Fi
+Auto IP : YES
+Auto-obtain : No
+Primary DNS 172.104.88.237
+Secundary DNS 172.104.88.237
