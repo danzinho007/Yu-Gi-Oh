@@ -1,0 +1,23 @@
+Deck Terra vs Curse of Vampire
+
+Banir monstro c/ monstro = 1
+Destruir mag / arm = 5
+Destruir monstro c/ arm = 4
+Destruir monstro c/ monstro = 3
+Destruir monstro maior = 1
+Equipamento = 3
+Negar arm = 1
+Negar magia = 1
+Segurar turno = 1
+Terreno = 3
+
+---Curse of Vampire
+
+Ñ pode ser destruido em batalha = 1
+
+Efe-8 Vampire Genesis 3000/2100
+Efe-5 Vampire Lord 2000/1500
+Efe-6 Curse of Vampire 2000/800
+Efe-4 Pyramid 1200/1400 = x3 !
+Efe-3 Spirit 300/200
+Mag Heavy Storm

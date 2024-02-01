@@ -1,0 +1,29 @@
+Deck Terra vs Silpheed 
+
+Banir monstro c/ monstro = 1
+Destruir mag / arm = 5
+Destruir monstro c/ arm = 4
+Destruir monstro c/ monstro = 3
+Destruir monstro maior = 1
+Equipamento = 3
+Negar arm = 1
+Negar magia = 1
+Segurar turno = 1
+Terreno = 3
+
+Deck Vento do Silphee
+
+Aumentar Atq = 1
+Terreno = 3
+Combo : Fly / Silp renasce e ele tributa pra por a Raiza 
+
+Efe-7 Simorgh 2700/1000
+Efe-6 Raiza 2400/1000 = x2 ?
+Efe-4 F.P Wynn 1850/1500 
+Efe-3 Silpheed 1700/700 = x3 !
+Efe-4 Flying 1400/900 = x3 !
+Mag Heavy Storm = 1 !
+Mag Mystical Space = !
+Mag Rising Air Current = x3 !
+Mag Rush Recklessly 
+Arm Trap Hole
