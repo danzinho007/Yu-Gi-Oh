@@ -1,0 +1,53 @@
+Booster Pack Judge Man :
+
+Judge Man
+	Normal Monster Card
+	Level 6        ATK 2200       DEF 1500
+	Warrior        Earth
+
+Neo the Magic Swordsman
+	Normal Monster Card
+	Level 4        ATK 1700       DEF 1000
+	Spellcaster    Light
+
+The Stern Mystic
+	Effect Monster Card
+	Level 4        ATK 1500       DEF 1200
+	Spellcaster    Light
+	"FLIP: All face-down cards on the field are turned face-up, and 
+	then returned to their original positions.  No card effects are 
+	activated when cards are turned face-up."
+
+Celtic Guardian <RARE>
+	{Also Blue Eyes W. Dragon and Millennium Puzzle Green}
+	Normal Monster Card
+	Level 4        ATK 1400       DEF 1200
+	Warrior        Earth
+
+Lesser Dragon
+	{Also Exodia and Red Eyes B. Dragon}
+	Normal Monster Card           Fusion-Material Monster
+	Level 4        ATK 1200       DEF 1000
+	Dragon         Wind
+
+Wall of Illusion
+	{Also Millennium Puzzle Blue}
+	Effect Monster Card
+	Level 4        ATK 1000       DEF 1850
+	Fiend          Dark
+	"The monster attacking this creature is returned to its owner's 
+	hand.  Any damage resulting from the attack is calculated normally."
+    
+Last Will
+	{Also Millennium Puzzle Blue}
+	Magic Card
+	"If a monster of yours is sent from the field to the Graveyard during 
+	the turn that you've placed this card, you can select a monster with 
+	an ATK of 1500 points or less from your Deck and play it as a Special 
+	Summon.  Shuffle the Deck after playing the card.  This card is active 
+	for 1 turn only."
+
+Waboku
+	Trap Card
+	"Any damage inflicted by an opponent's monster is decreased to 0 
+	during the turn this card is activated."

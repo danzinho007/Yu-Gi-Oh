@@ -1,0 +1,54 @@
+Tier 2 : Mako Tsunami
+
+Campo = 1
+Destruir campo = 1
+Destruir mag / arm = 1
+Roubar monstro = 2
+Voltar carta = 3
+
+Melhores opções pro deck dele :
+Ri-8 Crab Turtle        2550/2500 no Fortress Whale
+Fus-
+4 Giant Red Seasnake    1800/ 800 no Great White
+4 Hight Tide Gyojin     1650/1300 no Red Archery
+4 Crazy Fish            1600/1200
+4 Fairy of the Fountain 1600/1100
+
+Monsters: 21
+---------
+Efe-7 Suijin 2500/2400
+Rit-7 Fortress Whale 2350/2150
+
+Efe-4 Dark Elf 2000/800
+4 7 Colored Fish 1800/800 = x3
+4 Great White 1600/800 = x2
+4 Red Archery Girl 1400/1500 = x3
+Efe-3 Penguin Knight 900/800
+Efe-2 Penguin Soldier 750/500 = x3
+Efe-2 Star Boy 550/500 = x2
+Efe-1 Magician of Faith 300/400 = x3
+Efe-1 Sinister Serpent 300/250
+
+Magic: 13
+------
+
+1x Axe of Despair
+1x Change of Heart
+1x Dark Hole
+1x Fortress Whale's Oath
+1x Heavy Storm
+1x Harpie's Feather Duster
+1x Monster Reborn
+1x Pot of Greed
+1x Raigeki
+1x Snatch Steal
+2x Swords of Revealing Light
+1x Umi
+
+Traps: 5
+------
+
+2x Kunai with Chain
+1x Magic Jammer
+1x Mirror Force
+1x Seven Tools of the Bandit
