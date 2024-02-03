@@ -1,0 +1,43 @@
+--- Meu deck 02 :
+
+-Destruir arm virada pra cima = 
+-Destruir magia = 1
+De-Spell
+-Destruir mag/arm = 1-2-3-4
+Mag Heavy Storm
+Mag Mystical Space
+Arm Dust Tornado
+-Destuir mag/arm virada pra cima = 1-2
+MagRap Twister
+-Destruir monstro = 1-2
+Mag Fissure
+Mag Hammer Shot ( somente o maior )
+-Destruir monstro em defesa = 1-
+-Volta magia pra mão = 1
+-Parar Defesa = 1-
+-Travar o jogo = 1-2-
+
+===
+
+--- Jerry Beans
+
+Destruir mag = 1
+Destruir mag/arm virada pra cima = 1
+Destruir mão = 1-2
+Retornar mag/arm pra mão = 1
+Trava jogo = 1
+Trocar monstro = 1
+Vira monstro na invocação = 1
+
+1- Invoque sempre a maior carta, pois ele tem Card Destruction
+
+4 Jerry Beans 1750/0
+4 Red Archery 1400/1500
+Efe-3 Banisher 100/2000 
+Mag > Card Destruction
+Mag Creature Seizure
+MagRap > Enchanted Arrow
+MagRap > Hand Collapse
+Mag > Spiritualism
+MagCont > Stumbling 
+MagRap > Twister

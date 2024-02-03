@@ -1,0 +1,55 @@
+--- Meu deck inicial :
+
+-8 Tri-Horned 2850/2350 = Removido (1)
+-Efe-6 Majestic Mech Ohka 2400/1400
+Deck Majestic
+-Efe-6 Swift Birdman Joe 2300/1400
+Deck Wind
+-Efe-4 Goblin Elite 2200/1500
+Deck negar efeito
+Segurar jogo
+-4 Great Angus 1800/600
+-Efe-4 Vorter Kong 1800/1000
+Deck Light
+-4 Sonic Duck 1700/700
+-4 Space Mambo 1700/1000
+-4 Queen's Knight 1500/1600
+-Efe-3 Black Ptera 1000/500 = Removido (2)
+-Efe-3 Gyroid 1000/1000
+Tem que ser destruído 2x pra sair do campo
+-4 Elemental Hero Clayman 800/2000
+-2 Harpie Girl 500/500 !!! = Removido (4)
+-Efe-2 Iron Blacksmith 500/500
+Virar = Puxa Magia do Deck
+-Efe-2 Old Vindictive 450/600
+Virar = Destrói monstro do oponente
+-Efe-2 Decoy Dragon 300/200 = Removido
+Deck Dragão
+-3 Chamberlain 200/2000
+-4 Renge, Gatekeeper 100/2100
+
+Magias :
+-Equip > Axe of Despair
+-Back to Square One = Removido 
+Deck com muitas cartas
+-Broken Bamboo Sword = Removido
+-Dark Factory of Mass = Removido
+Deck Normal
+-Rápida > Enemy Controller
+-Hammer Shot
+-Equip > Lucky Iron Axe
+-Mind Control = Removido
+Deck ???
+-Cont > Soul Devouring Bamboo Sword = Removido
+Deck com Equip > Bamboo Sword
+-Stray Lambs
+-Ráp > Twister
+
+---Armadilhas :
+-Cont > Birthright
+-Chain Detonation = Removido
+Deck de Chain
+-Dust Tornado
+-Count > Magic Drain = Removido
+-Count > Negate Attack
+-Trap Hole

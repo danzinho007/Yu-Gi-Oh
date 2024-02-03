@@ -1,0 +1,16 @@
+--- Elemental Hero Knospe
+
+Destroi magia virada cima = 3
+Destroi monstro invocado = 1
+Negar dano = 2
+Retorna pra mão = 1
+Trava 7 turnos
+
+Efe-1 Kuriboh = x2 ?
+Mag > De-Spell
+Mag > Swords of Revealing
+Mag > Twister = x2 ?
+ArmResp > Force Back
+Arm > Negate Attack = x2 ?
+Arm > Trap Hole
+Arm > Waboku = x2 ?

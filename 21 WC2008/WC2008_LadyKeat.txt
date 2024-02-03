@@ -1,0 +1,25 @@
+--- E.H Lady Heat
+
+Arm q destroi monstro = 1
+Arm q destroi monstro quando ataca = 2
+Dano no oponente = 1
+Invocação Especial do Cemitério = 1
+Mag que corta pela metade o atq = 1
+Mag que distroi mag/arm = 1
+
+Fus-8 E.H Wildedge 2600/2300 = x2 ?
+Efe-4 Gaia Soul 2000/0 = x2 ?
+Efe-4 E. H Stratos 1800/300
+Efe-4 E.H The Heat 1600/1200
+Efe-4 E.H Wildheart 1500/1600 = x2 ?
+Efe-4 Solar Flare 1500/1000 = x2 ?
+MagCont Backfire
+Mag Miracle Fusion
+MagRap Mystical Space
+Mag Polymerization
+MagRap Shrink
+MagCamp Skyscraper 2 = x2 ?
+Arm Call of the Haunted
+Arm Hero Counterattack
+Arm Mirror Force
+Arm Sakuretsu Armor

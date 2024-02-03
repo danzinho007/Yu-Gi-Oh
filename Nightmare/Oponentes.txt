@@ -1,0 +1,57 @@
+----------------------------PART I - OPPONENT LIST----------------------------
+The following is a table of most of the opponents in this game. The english
+names are followed in parentheses by the Japanese names. The next column is
+whether or not they force you to duel in Shadow Games.  The opponents that
+have both Y (yes) and N (no) change at the point in parentheses.  The third 
+column are their feelings towards you after the first duel.  The fourth column
+is the first point of the game at which the opponent can be dueled.  The fifth
+column is the (average? I haven't tested this fully yet.) amount of duels it
+takes to register the duelist in your duel disk.  The final column is the
+minimum amount of duels it takes for each opponent to be interested in trading
+cards.  Characters begin to randomly ask for trades once their status is at
+least at neutral. (:|) I think getting the yellow XD status prevents them from
+unregistering you, but I'm not sure.
+
+CHARACTER ------------- SHADOW GAME - STATUS - APPEARANCE -- REGISTER - XD
+Yami Yugi (Other Yugi)  N             :|       After Event A                
+Yugi Muto (Yugi)        N             :|       Start           9        12
+Joey Wheeler (Jonouchi)	N             :|       Start           9        13
+Seto Kaiba              N             :(       After Event J           
+Mokuba                  N             :|       Start           8        15
+Yami Bakura             Y             >(       After Event K                
+Bakura                  N             :|       Start           11       15
+Téa Gardner (Anzu)      N             :|       Start           8        11
+Mai Valentine           N             :(       After Event J                
+Serenity (Shizuka)      N             :|       After ?         6        8
+Rebecca	                N             :|       After Event J   12       14
+Solomon (Trusdale)      N             :|                       11
+Bonz (Kotsuzuka)        Y/N (after ?) :|                       
+Mako                    N             :|                       12
+Espa Roba               N             :(                       12       13
+Rex Raptor (Ryuzaki)    N             :(                       16       18
+Weevil (Haga)           N             :(                       15
+PaniK (Player Killer)   Y             >(       After Event G                
+Dox (Kyu)               Y/N (after M) :(       After Event D
+Para (Mei)              Y/N (after M) :(       After Event B
+Pegasus (Pegasus)*      Y/N (after M) :(       After Event I   12
+Bandit Keith            Y             >(       After Event G
+Big 1 (Gansley)         Y             >(       During Event M
+Big 2 (Crump)           Y             >(       During Event M
+Big 3 (Johnson)         Y             >(       During Event M
+Big 4 (Nezbett)         Y             >(       During Event M
+Big 5 (Leichter)        Y             >(       During Event M
+Noah                    Y             >(       During Event M
+Gozaburo                Y             >(       During Event M
+Rare Hunter             Y             >(       After Event P
+Strings                 Y/N (after X) :(       After Event O
+Arkana                  Y             >(       After Event O
+Lumis                   Y             >(       After Event O
+Umbra                   Y             >(       After Event O
+Odion (Rishid)          Y/N (after X) :|       After Event S
+Ishizu Ishtar (Isis)    N             :(       After Event J
+Marik Ishtar            N             :|       After Event X
+Yami Marik              Y             >(       After Event W
+
+*WARNING: There may be a bug in this game that prevents Pegasus from appearing
+after you beat Yami Marik. It is imperative that you get Imperial Order from
+him as a trade before then, or you may miss your chance to get it.

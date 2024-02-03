@@ -1,0 +1,44 @@
+--- Meu deck 02 :
+
+Destruir arm = 1-
+Destruir magia/arm = 1-2-3-4-5
+Destruir monstro = 1-2-3-4
+Destruir monstro em defesa = 1-
+Parar Defesa = 1-
+Travar o jogo = 1-2-
+
+
+--- Stray Lambs --- 
+
+Deck Beast + Terra
+-Aumenta os pontos de Atq = x1 ?
+Monstros ficam com 1500 pra cima
+1-Gaia + Equip + Wolf = 2000 Atq
+-Atrasar o turno = x3 ?
+-Destruir mag/arm = x1 ?
+-Não pode mudar posição dos monstros = x1 ?
+Dicas ?
+-Sempre ataque com monstros com 1600 Atq
+-Se ele usar o campo é 1800 Atq, use equip pra ficar com 2100 Atq
+
+
+Monstros :
+4 Mystic Horseman 1300/1550 
+3-Beast Wolf 1200/800
+Efe-3-Beast Mystical Sheep #1 1150/900 = x2 ?
+4-Beast Dark Rabbit 1100/1500 
+Efe-2-Beast Nimble Momonga 1000/100 = x2 ?
+Efe-1-Beast Milus Radian 300/250
+
+Mag
+-Equip > Beast Fangs = Beast +300 Atq/Def
+-Campo > Forest = Beast, Plant and Beast-Warrior +200
+-Campo > Gaia Tower = Terra +500 Atq e -400 Def
+-Mesmeric Control
+-Rápida > Mystical Space
+-(Rap) Offerings to the Doomed 
+-Equip > Rush Recklessly = Monstro ViradoP/Cima +700 Atq
+
+Arm
+-Negate Attack = x1 ?
+-Threatening Roar = x2 ?

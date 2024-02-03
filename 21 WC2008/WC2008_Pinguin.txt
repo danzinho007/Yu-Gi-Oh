@@ -1,0 +1,55 @@
+--- Meu deck 02 :
+
+-Destruir arm virada pra cima = 
+-Destruir magia = 1
+De-Spell
+-Destruir mag/arm = 1-2-3-4
+Mag Heavy Storm
+Mag Mystical Space
+Arm Dust Tornado
+-Destuir mag/arm virada pra cima = 1-2
+MagRap Twister
+-Destruir monstro = 1-2
+Mag Fissure
+Mag Hammer Shot ( somente o maior )
+-Destruir monstro em defesa = 1-
+-Volta magia pra mão = 1
+-Parar Defesa = 1-
+-Travar o jogo = 1-2-
+
+====================
+
+--- Pinguin ---
+
+Ataque 1500 - 1800
+Defesa = 1200 - 1500
+Remover do jogo = 1
+Removido do jogo = 1
+Retorna pra mão = 8
+
+-Efe-4 Abyss Soldier 1800/1300 
+Descarta 1 Água e retorna 1 monstro pra mão
+-Efe-4 Hyper Hammerhead 
+Retorna pra mão depois de batalhar
+4 Red Archery Girl 1400/1500 
+4 Jellyfish 1200/1500
+4 Fiend Kraken 1200/1400
+4 Krokodilus 1100/1200 = x2 ?
+-Efe-4 Nightmare Penguin 900/1800
+Vira e retorna pra mão 1 carta do oponente
+Todos monstros Água ganham 200 Atq
+-Efe-4 Golem Sentry 800/1800
+-Efe-2 Penguin Soldier 750/500
+Vira e Retorna 2 monstros p/mão
+-Efe-2 Hane-Hane 450/500
+
+MagCamp > A Legendary Ocean
+Mag Back to Square One
+MagCont > Degenarate Circuit 
+
+ArmCont > Begone, Knave 
+-Arm > Compulsory Evacuation = x2 ?
+-Arm > Forced Back 
+Nega Invocação Normal/Flip e retorna pra mão
+-Arm > Phoenix Wing = x2 ?
+Descarta 1 carta dps retorna 1 monstro do oponente pro topo do deck

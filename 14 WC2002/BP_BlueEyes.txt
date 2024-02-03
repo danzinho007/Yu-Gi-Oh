@@ -1,0 +1,312 @@
+Blue-Eyes White Dragon
+----------------------------
+
+[] Aqua Madoor
+	Normal Monster Card
+	Level 4        ATK 1200       DEF 2000
+	Spellcaster    Water
+
+[] Beast Fangs <RARE>
+	{Also Dark Magician}
+	Magic Card     Equip
+	"A Beast-type monster equipped with this card increases its ATK and 
+	DEF by 300 points."
+
+[] Blue-Eyes White Dragon
+	{Also Millenium Puzzle Green}
+	Normal Monster Card           Fusion-Material Monster
+	Level 8        ATK 3000       DEF 2500
+	Dragon         Light
+	"This legendary dragon is a powerful engine of destruction.  
+	Virtually invincible, very few have faced this awesome creature and 
+	lived to tell the tale."
+
+[] Book of Secret Arts
+	{Also Dark Magician}
+	Magic Card     Equip
+	"A Spellcaster-type monster equipped with this card increases its 
+	ATK and DEF by 300 points"
+
+[] Celtic Guardian <RARE>
+	{Also Judge Man and Millennium Puzzle Green}
+	Normal Monster Card
+	Level 4        ATK 1400       DEF 1200
+	Warrior        Earth
+
+[] Charubin the Fire Knight <RARE>
+	Fusion Monster Card
+	Level 3        ATK 1100       DEF 800
+	Pyro           Fire
+	"Monster Egg + Hinotama Soul"
+
+[] Dark Hole <RARE>
+	{Limited to only 1 card in a deck}
+	{Also Dark Magician}
+	Magic Card
+	"Destroys all monsters on the field."
+
+[] Dark King of the Abyss
+	Normal Monster Card
+	Level 3        ATK 1200       DEF 800
+	Fiend          Dark
+
+[] Dark Magician <RARE>
+	{Also Dark Magician and Millennium Puzzle Green}
+	Normal Monster Card
+	Level 7        ATK 2500       DEF 2100
+	Spellcaster    Dark
+
+[] Darkfire Dragon
+	Fusion Monster Card
+	Level 4        ATK 1500       DEF 1250
+	Dragon         Dark
+	"Firegrass + Petit Dragon"
+
+[] Dragon Capture Jar
+	Trap Card      Continuous
+	"All Dragon-type monsters on the field are switched to Defense 
+	Position and remain in this position as long as this card is active."
+
+[] Fiend Reflection #2
+	Normal Monster Card
+	Level 4        ATK 1100       DEF 1400
+	Winged Beast   Light
+
+[] Firegrass
+	{Also Dark Magician}
+	Normal Monster Card           Fusion-Material Monster
+	Level 2        ATK 700        DEF 600
+	Plant          Earth
+
+[] Fissure <RARE>
+	{Also Dark Magician}
+	Magic Card
+	"Destroys 1 opponent's face-up monster with the lowest ATK."
+
+[] Flame Ghost
+	Fusion Monster Card
+	Level 3        ATK 1000       DEF 800
+	Zombie         Dark
+	"Skull Servant + Dissolverock"
+
+[] Flame Manipulator
+	Normal Monster Card           Fusion-Material Monster
+	Level 3        ATK 900        DEF 1000
+	Spellcaster    Fire
+
+[] Flame Swordsman <RARE>
+	{Also Millennium Puzzle Green and Millennium Eye}
+	Fusion Monster Card
+	Level 5        ATK 1800       DEF 1600
+	Warrior        Fire
+	"Flame Manipulator + Masaki the Legendary Swordsman"
+
+[] Forest <RARE>
+	Magic Card     Field
+	"Increases the ATK and DEF of all Insect, Beast, Plant, and Beast 
+	Warrior-type monsters by 200 points."
+
+[] Fusionist
+	Fusion Monster Card           Fusion-Material Monster
+	Level 3        ATK 900        DEF 700
+	Beast          Earth
+	"Petit Angel + Mystical Sheep #2"
+
+[] Gaia The Fierce Knight <RARE>
+	{Also Dark Magician}
+	Normal Monster Card           Fusion-Material Monster
+	Level 7        ATK 2300       DEF 2100
+	Warrior        Earth
+
+[] Green Phantom King
+	Normal Monster Card
+	Level 3        ATK 500        DEF 1600
+	Plant          Earth
+
+[] Hinotama
+	Magic Card
+	"Inflicts 500 points of Direct Damage to your opponent's Life Points."
+
+[] Hinotama Soul
+	Normal Monster Card           Fusion-Material Monster
+	Level 2        ATK 600        DEF 500
+	Pyro           Fire
+
+[] Hitotsu-Me Giant
+	{Also Dark Magician}
+	Normal Monster Card
+	Level 4        ATK 1200       DEF 1000
+	Beast-Warrior  Earth
+
+[] Kagemusha of the Blue Flame <RARE>
+	{Also Dark Magician}
+	Normal Monster Card
+	Level 2        ATK 800        DEF 400
+	Warrior        Earth
+
+[] King Fog
+	Normal Monster Card
+	Level 3        ATK 1000       DEF 900
+	Fiend          Dark
+
+[] Kurama
+	{Also Dark Magician}
+	Normal Monster Card
+	Level 3        ATK 800        DEF 800
+	Winged Beast   Wind
+
+[] Legendary Sword <RARE>
+	{Also Dark Magician}
+	Magic Card     Equip
+	"A Warrior-type monster equipped with this card increases its ATK 
+	and DEF by 300 points."
+
+[] Mammoth Graveyard
+	{Also Dark Magician}
+	Normal Monster Card
+	Level 4        ATK 1200       DEF 800
+	Dinosaur       Earth
+
+[] Masaki the Legendary Swordsman
+	Normal Monster Card           Fusion-Material Monster
+	Level 4        ATK 1100       DEF 1100
+	Warrior        Earth
+
+[] Monster Egg
+	Normal Monster Card           Fusion-Material Monster
+	Level 6        ATK 600        DEF 900
+	Warrior        Earth
+
+[] Mystical Sheep #2
+	Normal Monster Card           Fusion-Material Monster
+	Level 3        ATK 800        DEF 1000
+	Beast          Earth
+
+[] Nemuriko
+	{Also Dark Magician}
+	Normal Monster Card
+	Level 3        ATK 800        DEF 700
+	Spellcaster    Dark
+
+[] Petit Angel
+	{Also Dark Magician}
+	Normal Monster Card           Fusion-Material Monster
+	Level 3        ATK 600        DEF 900
+	Fairy          Light
+
+[] Petit Dragon
+	{Also Dark Magician}
+	Normal Monster Card           Fusion-Material Monster
+	Level 2        ATK 600        DEF 700
+	Dragon         Wind
+
+[] Polymerization <RARE>
+	{Also Great Moth}
+	Magic Card
+	"Fuses 2 or more Fusion-Material Monsters to form a new Fusion 
+	Monster."
+
+[] Power of Kaishin <RARE>
+	{Also Dark Magician}
+	Magic Card     Equip
+	"An Aqua-type monster equipped with this card increases its ATK and 
+	DEF by 300 points."
+
+[] Raigeki <RARE>
+	{Limited to only 1 card in a deck}
+	Magic Card
+	"Destroys all of your opponent's monsters on the field."
+
+[] Ray & Temperature
+	Normal Monster Card
+	Level 3        ATK 1000       DEF 1000
+	Fairy          Light
+
+[] Red Medicine
+	{Also Dark Magician}
+	Magic Card
+	"Increases your Life Points by 500 points."
+
+[] Remove Trap
+	Magic Card
+	"Destroys 1 face-up Trap Card on the field."
+
+[] Root Water
+	Normal Monster Card
+	Level 3        ATK 900        DEF 800
+	Fish           Water
+
+[] Silver Fang
+	{Also Dark Magician}
+	Normal Monster Card           Fusion-Material Monster
+	Level 3        ATK 1200       DEF 800
+	Beast          Earth
+
+[] Skull Servant
+	Normal Monster Card           Fusion-Material Monster
+	Level 1        ATK 300        DEF 200
+	Zombie         Dark
+
+[] Sogen <RARE>
+	Magic Card     Field
+	"Increases the ATK and DEF of all Beast-Warrior and Warrior-type 
+	monsters by 200 points."
+
+[] Sparks
+	{Also Dark Magician}
+	Magic Card
+	"Inflicts 200 points of Direct Damage to you opponent's Life Points."
+
+[] The 13th Grave
+	Normal Monster Card
+	Level 3        ATK 1200       DEF 800
+	Zombie         Dark
+
+[] The Furious Sea King
+	{Also Dark Magician}
+	Normal Monster Card
+	Level 3        ATK 800        DEF 700
+	Aqua           Water
+
+[] Trap Hole <RARE>
+	{Also Dark Magician}
+	Trap Card
+	"If the ATK of a monster summoned by your opponent (excluding 
+	Special Summon) is 1000 points or more, the monster is destroyed."
+
+[] Trial of Nightmare
+	Normal Monster Card
+	Level 4        ATK 1300       DEF 900
+	Fiend          Dark
+
+[] Turtle Tiger
+	Normal Monster Card
+	Level 4        ATK 1000       DEF 1500
+	Aqua           Water
+
+[] Two-Mouth Darkruler
+	Normal Monster Card
+	Level 3        ATK 900        DEF 700
+	Dinosaur       Earth
+
+[] Two-Pronged Attack
+	Trap Card
+	"Select and destroy 2 of your monsters and 1 of your opponent's 
+	monsters."
+
+[] Umi <RARE>
+	Magic Card     Field
+	"Increases the ATK and DEF of all Fish, Sea Serpent, Thunder, and 
+	Aqua-type monsters by 200 points.  Also decreases the ATK and DEF of 
+	all Machine and Pyro-type monsters by 200 points."
+
+[] Violet Crystal <RARE>
+	{Also Dark Magician}
+	Magic Card     Equip
+	"A Zombie-type monster equipped with this card increases its ATK and 
+	DEF by 300 points."
+
+[] Wasteland <RARE>
+	Magic Card     Field
+	"Increases the ATK and DEF of all Dinosaur, Zombie, and Rock-type 
+	monster by 200 points."

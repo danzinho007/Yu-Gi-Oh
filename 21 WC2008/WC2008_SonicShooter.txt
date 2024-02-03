@@ -1,0 +1,19 @@
+--- Anjo = Sonic Shooter
+
+Aumenta Vento +500Atq -400Def = 1
+Destroi magia virada pra cima = 1
+Destroi monstro no campo = 1
+Vira monstro do adversário = 1
+
+Efe-4 Oxygeddon 1800/800
+Efe-4 Silpheed 1700/700
+-Efe-4 Garuda the Wind 1600/1200
+Vira monstro do oponente
+-Efe-4 Goe Goe 1500/1000
+Efe-4 Flygin Kamakiri #1 1400/900
+MagCont Banner
+MagRap Enemy Controller
+MagEquip Lucky Iron Axe
+MagCamp Rising Air
+MagRap Twister
+Arm Raigeki Break

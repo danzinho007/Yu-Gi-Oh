@@ -1,0 +1,27 @@
+--- Reaper 
+
+Atacar com 1600
+Arm que destroi todos em Atq = 1
+Mag que destroi mag/arm = 2
+*1 Depende do Mago Negro em campo sozinho
+Monstro que destroi mão = 1
+Monstro que não é destruído em batalha = 2
+
+Fus-6 Bracchio-raidus 2200/2000
+Fus-5 Reaper on the Nightmare 800/600 = x2 ?
+7 Dark Magician 2500/2100 = x2 ?
+4 Crawling Dragon #2 1600/1200 
+4 Two-Headed King 1600/1200
+4 Faith Bird 1500/1100
+Efe-4 Mother Grizzly 1400/1000 = x3 !
+Efe-3 Morphin Jar
+Efe-3 King of the Swamp 500/1100 = x3 !
+Efe-3 Marshmallon 300/500 
+Efe-3 Spirit Reaper 300/200
+Mag Ancient Rules
+Mag Dark Magic Attack
+Mag Mystical Space Typhoon
+Mag Polymerization
+Arm Call of the Haunted 
+Arm Mirror Force
+ArmCont Royal Decree
