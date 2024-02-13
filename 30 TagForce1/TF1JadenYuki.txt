@@ -1,9 +1,12 @@
 Jaden Yuki Deck :
 
+1-Fusão
+2-Campo
+
 -Fusion Monsters
 Elemental Hero Flame Wingman x3
-Elemental Hero Mudballman
-Elemental Hero Rampart Blaster
+Elemental Hero Mudballman 1900/3000
+Elemental Hero Rampart Blaster 2000/2500
 Elemental Hero Steam Healer
 Elemental Hero Tempest
 
@@ -11,12 +14,12 @@ Elemental Hero Tempest
 Elemental Hero Avian x2
 Elemental Hero Burstinatrix x2
 Elemental Hero Clayman x2
-Elemental Hero Sparkman x2
+Elemental Hero Sparkman 800/2000 = x2
 
 -Effect Monsters
 Cyber Jar
 Dark Catapulter
-Elemental Hero Bladedge
+7 Elemental Hero Bladedge 2600/1800
 Elemental Hero Bubbleman
 Morphing Jar
 Winged Kuriboh x2
