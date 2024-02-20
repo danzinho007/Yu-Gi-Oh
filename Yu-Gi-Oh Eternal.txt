@@ -1,6 +1,139 @@
 Yu-Gi-Oh Eternal
 
+Deck de monstros :	
+	-B. Skull Dragon
+	-Black Luster Soldier
+	-Blue-Eyes Ultimate Dragon
+	-Dark Magician
+	-Gate Guardian
+	-Harpies Pet Dragon
+Equip Cyber Shield
+Mag Elegant Egotist
+	-Labyrinth Wall
+Equip Magical Labyrinth
+	-Metalzoa
+	-Meteor B. Dragon
+	-Perfectly Ultimate Greath
+	-Relinquished
+	-Valkyrion
+
+Atributo / Tipo :
+	-Aqua
+Equip Power of Kaishin
+ArmCont Tornado Wall
+Campo Umi
+	-Beast
+Equip Beast Fangs
+Campo Forest
+	-Beast-Warrior
+Campo Forest
+Equip Mystical Moon
+Campo Sogen
+	-Dark
+Campo Mystic Plasma
+Equip Sword of Dark
+	-Dinosaur
+Equip Raise Body Heat
+Campo Wasteland
+	-Dragon
+Equip Dragon Treasure
+Campo Mountain
+	-Earth
+Campo Gaia Power
+Equip Invigoration
+	-Fairy
+Equip Silver Bow
+	-Fiend
+Equip Dark Energy
+Campo Yami
+	-Fire
+Equip Burning Spear
+Campo Molten Destruction
+Equip Salamandra
+	-Fish
+Campo Umi
+	-Insect
+Campo Forest
+Equip Insect Armor
+Equip Laser Cannon
+	-Light
+Equip Bright Castle
+Equip Elfs Light
+Equip Luminous Spark
+	-Machine
+Equip 7 Completed
+Equip Machine Conversion
+	-Plant
+Campo Forest
+Equip Vile Germs
+	-Rock
+Campo Wasteland
+	-Sea Serpent
+Campo Umi
+	-Spellcaster
+Equip Book of Secret
+Campo Yami
+	-Thunder
+Equip Electro-Whip
+Campo Mountain
+Campo Umi
+	-Warrior
+Equip Legendary Sword
+Campo Sogen
+Equip Sword of Dragons
+	-Water
+Equip Steel Shell
+Campo Umiruka
+	-Wind
+Equip Gust Fan
+Campo Rising Air Current
+	-Winged-Beast
+Equip Follow Wind
+Campo Mountain
+	-Zombie
+Equip Violet Crystal
+Campo Wasteland
+
+Outros :
+	-Exodia
+-Efe-3 Exodia 1000/1000
+-Efe-2 Skelengel 900/400 
+Vira = Puxa carta
+-Efe-2 Penguin Soldier 750/500
+-Left Arm 200/300
+-Left Leg 200/300
+-Right Arm 200/300
+-Right Leg 200/300
+-Mag Dark Hole = Limitada
+Extra !!!
+-Mag Graceful Charity = SemiLimitada
+-Mag Heavy Storm = SemiLimitada
+-MagCont Messenger of Peace 
+Extra !!!
+-Mag Pot of Greed = Limitada
+-Mag Sword of Revealing = SemiLimitada
+-Mag Upstart Goblin = Limitada
+-Arm Jar of Greed 
+-Arm Mirror Force = Limitada
+-Arm Negate Attack
+-Arm Torrential Tribute
+-Arm Waboku
+
+	-1500 ou menos
+MagCont Messenger of Peace
+	-Nega Armadilha
+ArmCont Royal Decree
+	-Toon
+MagCont Toon World
+
 Monstros :
+
+5-6
+5 Cyber-Tech 2500/1600
+6 Summoned Skull 2500/1200
+Efe-6 Jinzo 2400/1500
+
+1500+ 
 4-Gemini Elf 1900/900
 4-La Jinn the Mystical 1800/1000
 4-Dunames Dark Witch 1800/1050
@@ -10,3 +143,10 @@ Monstros :
 4-Great White 1600/1000
 4-Koumori Dragon 1500/1200
 4-Uraby 1500/800
+
+---1500-
+-Efe-4 Big Eye 1200/1000
+Olha o deck
+-Efe-3 Versago 1100/900
+Fusão
+-
