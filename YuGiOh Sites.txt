@@ -3,7 +3,7 @@ Yu-Gi-Oh :
 Ver 
 https://ygodream.blogspot.com/2012/09/episodios-yu-gi-oh-5ds-hq.html
 https://yugioh.fandom.com/wiki/Portal:Yu-Gi-Oh!_VRAINS_anime_characters
-https://yugioh.fandom.com/wiki/Yusaku_Fujiki%27s_Decks#Past_Deck
+
 https://yugioh.fandom.com/wiki/Yu-Gi-Oh!_VRAINS_episode_listing_(season_1)
 
 Megamorph33
@@ -29,7 +29,7 @@ https://tieba.baidu.com/p/2362252041?pn=5
 https://tieba.baidu.com/p/2362252041?pn=8
 https://ygobbs.com/t/%E3%80%90%E8%BD%AC%E8%87%AAcore%E8%B4%B4%E5%90%A7%E3%80%91%E3%80%90%E5%8D%A1%E8%A1%A8%E8%B5%84%E6%96%99%E3%80%91%E6%B8%B8%E6%88%8F%E7%8E%8B%E5%8E%86%E4%BB%A3%E7%A6%81%E5%8D%A1%E8%A1%A8%E3%80%90%E5%9B%BE%E7%89%87%E7%89%88%E3%80%91%E3%80%90%E5%85%A8%E3%80%91/6935
 https://ygoproalfaomega.wixsite.com/ygopro-alfa-omega/textures-skin
-https://ygoprodeck.com/deckbuilder/
+
 
 https://www.yugioh-card.com/en/
 https://yugiohnexus.blogspot.com/2017/11/relembrando-um-deck-supremo-3-yata-lock.html
@@ -186,14 +186,35 @@ https://www.mediafire.com/file/b1fmm7q0plwdm5c/ygopro-english-1017b-full.rar
 https://drive.google.com/uc?id=0B4dycruDPVR5dklBb2J3YTVGb1E&export=download
 https://mega.nz/file/bZJhmLRJ#ps8cFQC_2XXGFL6kw5UXF-ef7w8SB8PNNn2BN7qISEQ
 
+------------------------------------------------------------
+Decks :
+
+https://yugioh.fandom.com/wiki/Yusaku_Fujiki%27s_Decks#Past_Deck
+
+https://www.deviantart.com/search?q=Yu-Gi-Oh%20Deck
+
+https://epickingdom.wordpress.com/2019/12/18/yu-gi-oh-tcg-os-decks-mais-usados-atualmente-2019/
+
+https://forum.duelistsunite.org/c/yugioh/decks/19
+
 https://github.com/MichaelLawrenceDee/YGoDecks/tree/master/deck
 
-Decks :
+https://www.pojo.com/yu-gi-oh/CCGTips/2002/June2002/yugiTips-7-2/Report%20-%20YuGiOh%20-%20Killer%20Deck.htm
+
+https://www.pojo.com/2007-trooper-format-full-deck-library-yu-gi-oh/
+
 https://rushcard.io/deck-search/?&offset=0
 
+http://ygoprobr-pt.blogspot.com.br/p/ygopro.html
+
+https://ygoprodeck.com/deckbuilder/
+
+https://yugioh-history.com/deck-list/historical/
+
+-----------------------------------------------------------
 História 
+
 https://yugioh-history.com/#
-https://yugioh-history.com/deck-list/historical/exodia-generation-one
 https://yugioh-history.com/environment/generation-one-14
 https://yugioh-history.com/environment/generation-one-18
 https://yugioh-history.com/environment/generation-one-20
@@ -290,17 +311,12 @@ https://www.mediafire.com/file/t0tpza9k16ahwre/Anime-Style_Card_Images.zip/file
 Last Turn
 https://docs.google.com/document/d/1r-FGgDW2yP1Te4WEDdfux6usf5AoSDGLQdrHErDlPsk/edit
 
-Decks
-https://www.deviantart.com/search?q=Yu-Gi-Oh%20Deck
 
 Arquétipos
 https://superygo.wordpress.com/tag/arquetipos/
 
 Arquétipos
 http://ygo-rpg.weebly.com/arqueacutetipos.html
-
-Decks
-http://ygoprobr-pt.blogspot.com.br/p/ygopro.html
 
 Matérias
 https://yugiohnexus.blogspot.com/2023/05/nextory-special-2-historia-do-meta.html?fbclid=IwAR1E8O1pfes_pSucodpyYdXG3Schj4XJTox_dq7SAQOW-gj2mP7rotvYP5o
@@ -331,13 +347,10 @@ Jogo
 https://duelingnexus.com/login
 Jogo pc
 
-https://epickingdom.wordpress.com/2019/12/18/yu-gi-oh-tcg-os-decks-mais-usados-atualmente-2019/
-Decks 2019
-
 https://fmbrasilteam.wixsite.com/fmbrasilteam/post/mod-beta-e-mod-completo
 Jogo PSX
 
-https://forum.duelistsunite.org/c/yugioh/decks/19
+
 Forum jogo
 
 https://github.com/Steelren
@@ -352,10 +365,7 @@ Formato Goat
 http://percival18.blogspot.com/
 Blog YGOPro antigo
 
-https://www.pojo.com/2007-trooper-format-full-deck-library-yu-gi-oh/
-Decks
 
-https://www.pojo.com/yu-gi-oh/CCGTips/2002/June2002/yugiTips-7-2/Report%20-%20YuGiOh%20-%20Killer%20Deck.htm
 Duelos antigos
 
 https://www.pojo.com/yu-gi-oh/Featured/TimeLine.shtml
