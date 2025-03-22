@@ -1,0 +1,16 @@
+Anime :
+Yu-Gi-Oh Toei = 27
+Yu-Gi-Oh = 224
+Capsule = 12
+GX = 180
+5Ds = 154
+Zexal = 146
+ARC-V = 148
+Vrains = 120
+Sevens = 92
+GoRush = 150/151
+
+-GoRush : 
+3 April 2022
+2 April 2023
+7 April 2024
