@@ -1,5 +1,5 @@
 Notas : Yu-Gi-Oh
-OBS : A 1° versão é a usada no RetroArchivments !!!
+OBS : A 1 versao e a usada no RetroArchivments !!!
 
 Ordem que eu uso :
 01 PS1 Monster Capsule
@@ -72,7 +72,7 @@ Yu-Gi-Oh! Duel Monsters 6 Expert 2 (Japan).gba
 
 --- The Eternal Duelist Soul
 
-Versão BR com CRC32 : BDD60211
+Versï¿½o BR com CRC32 : BDD60211
 Yu-Gi-Oh! - The Eternal Duelist Soul (USA) (patched).gba
 
 USA com CRC32 : DFD07A36
@@ -130,24 +130,24 @@ Yu-Gi-Oh! - Ultimate Masters Edition - World Championship Tournament 2006 (Europ
 
 --- World Championship 2007 ---
 
-Versão USA tem > CRC32 : EB7A2BAF
--Inglês ou Japonês
+Versï¿½o USA tem > CRC32 : EB7A2BAF
+-Inglï¿½s ou Japonï¿½s
 0940 - Yu-Gi-Oh! - World Championship 2007 (USA) (En,Ja)
 Yu-Gi-Oh! - World Championship 2007 (US)
 
 Japonesa tem > CRC32 : 3BC97F19
--Vários idiomas
+-Vï¿½rios idiomas
 Yu-Gi-Oh! Duel Monsters - World Championship 2007 (JP)
 Yu-Gi-Oh! Duel Monsters - World Championship 2007 (Japan) (En,Ja,Fr,De,Es,It)
 0904 - Yu-Gi-Oh! Duel Monsters World Championship 2007 (J)(XenoPhobia)
 
 Europa tem > CRC32 : 4B65B756
--Vários idiomas
+-Vï¿½rios idiomas
 Yu-Gi-Oh! World Championship 2007
 Yu-Gi-Oh! - World Championship 2007 (Europe) (En,Ja,Fr,De,Es,It)
 
 Traduzida > CRC32 : D9E6A721
--Cartas em inglês mas o jogo é traduzido
+-Cartas em inglï¿½s mas o jogo ï¿½ traduzido
 2007BR
 
 --- World Championship 2008 ---
@@ -171,7 +171,7 @@ Japonesa com CRC32 : 5F7F8839
 Yu-Gi-Oh! 5Ds - Stardust Accelerator - World Championship 2009 (JP).nds
 Yu-Gi-Oh! 5D's - Stardust Accelerator - World Championship 2009 (Japan) (En,Ja,Fr,De,Es,It)
 
-Sem informação com CRC32 : 4C1D400
+Sem informaï¿½ï¿½o com CRC32 : 4C1D400
 3563 - Yu-Gi-Oh! 5D's - Stardust Accelerator - World Championship 2009 (Japan) (En,Ja,Fr,De,Es,It) [b].nds
 
 --- World Championship 2010 ---
@@ -206,6 +206,3 @@ Yu-Gi-Oh! - Worldwide Edition - Stairway to the Destined Duel (USA) (En,Ja,Fr,De
 
 Desconhecido com CRC32 : 6E0B8072
 Yu-Gi-Oh! Worldwide Edition - Stairway to the Destined Duel.gba
-
-
-

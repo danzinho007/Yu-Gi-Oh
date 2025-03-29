@@ -1,0 +1,69 @@
+Cartas_Rush:
+
+Armadilha + Magia + Monstro
+
+---ArmadilhaLendaria:
+-Arm-MirrorForce
+Deck_Destruicao
+
+---Armadilha:
+-Arm-TheBarrier
+Perde_Ataque
+
+---MagiaLendaria:
+-Mag-DarkHole
+Deck_Destruicao
+-Mag-PotOfGreed
+Puxar_Carta
+
+---Magia:
+-Mag-AncientRules
+Deck_Lv5+
+-Mag-BlueMedicine
+Deck_Vida
+-Mag-DianKetoTheCureMaster
+Deck_Vida
+-Mag-Fusion
+Deck_Fusao
+-Mag-HammerCrush
+Destruir_Armadilha
+Destruir_Magia
+-Mag-RedMedicine
+Deck_Vida
+
+NormalLegend:
+
+Normal:
+
+EfeitoFusao:
+6-EfeFus-ElementalHeroFlameWingman 2100/1200
+Deck_Hero
+2-EfeFus-Nikotamabot 2000/2000
+Deck_Tamabot
+
+Efeito:
+8-Efe-DianKetoTheBoogieMaster 2500/1000
+Deck_Vida
+7-Efe-BattleSharkSamegalon 2300/500
+Deck_Agua
+6-Efe-SevensRoadWitch 1600/1000
+Deck_SevensRoadMagician
+Deck_Trevas
+4-Efe-GreenGadget 1400/600
+Deck_Gadget
+4-Efe-RedGadget 1300/1500
+Deck_Gadget
+3-Efe-ThunderTheThunder 1300/300
+Diminuir_Defesa
+4-Efe-YellowGadget 1200/1200
+Deck_Gadget
+4-Efe-KaratakeTheTalismanicWarrior 1000/1000
+Deck_Guerreiro
+3-Efe-Neo-SpacianAirHummingbird 800/600
+Deck_Vida
+2-Efe-PhoenixDragon 500/500
+Deck_Dragao
+3-Efe-AnimalDoctorLily 400/1500
+Deck_Terra
+3-Efe-InjectionFairyLily 400/1500
+Deck_Vida
